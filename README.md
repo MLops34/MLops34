@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 **Radhe Radhe!** I’m **Vaibhav Saxena** (@MLops34)  
+👋 **Radhe Radhe!** I’m (@MLops34)  
 👀 Passionate about **Machine Learning, MLOps, and DSA**  
 🌱 Currently grinding **DSA** while building **real-world ML projects**  
 💞️ Open to collaborating on **Machine Learning / AI projects**  
